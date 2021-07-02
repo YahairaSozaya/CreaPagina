@@ -2,4 +2,5 @@
 
 ### Maquetación HTML, diseño responsive y menus desplegables.
 
-![Alt text](readme.png "imagen readme" ){width=300px}
+
+<img src="./readme.png" alt="imagen readme" width="400px">
